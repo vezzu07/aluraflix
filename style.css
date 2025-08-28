@@ -6,14 +6,18 @@ body{
 
 
 header{
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&display=swap" rel="stylesheet">
+
     border: solid 2px rgb(42. 122, 228);
     padding: 20px;
     fonte-size: 32px;
-    color: rgb(66, 114, 245);
+    color: rgb(46, 96, 235);
 }
 
 section{
-     background: rgb(245, 132, 132);
+     background: rgb(250, 91, 91);
      padding-bottom: 80px;
      padding-top: 80px;
      display: flex;
